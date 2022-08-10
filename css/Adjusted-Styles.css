@@ -1,0 +1,54 @@
+.tableau p {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: royalblue;
+}
+.tableau h1 {
+    color: royalblue;
+    text-transform: uppercase;
+    text-align:center;
+}
+ .navmenu li {
+    float: left;
+    margin-right: 4px;
+    border: 2px;
+    font-family: 'Times New Roman', Times, serif;
+    text-transform: uppercase;
+    list-style: none;
+    background-color: royalblue;
+    padding: 5px;
+   
+}
+.navmenu a {
+    color: white;
+}
+
+
+/* My Styles */
+.mystyle1 {
+line-height: 0;
+}
+
+.mystyle2 {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.mystyle3 {
+  background-color: black;
+}
+
+.mystyle4 {
+  text-transform: uppercase;
+}
+
+.mystyle5 {
+    font-family: 'Times New Roman', Times, serif;
+    font-style: bold;
+    background-color: royalblue;
+    color: white !important;
+    text-align: center;
+}
+
+.mystyle6 {
+    padding:4px
+}
+/* End of my styles */
