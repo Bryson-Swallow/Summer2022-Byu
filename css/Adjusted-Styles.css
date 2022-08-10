@@ -49,14 +49,22 @@ line-height: 0;
 }
 
 .mystyle6 {
-    color: white;
-}
-
-.mystyle7:link {
-color: pink;
+    color: white !important;
 }
 
 .mystyle6 {
     padding:4px
 }
+
+.mystyle7:link {
+color: pink !important;
+}
+
+.mystyle8:visited {
+    color: pink;
+}
+
+
+
+
 /* End of my styles */
